@@ -1,0 +1,13 @@
+Nome: Piorocco
+Cognome: Brindisi
+Sesso: m
+Città di nascita: potenza
+Provincia di nascita: PZ
+Data di nascita: 2004-02-26
+Città di residenza: PZ
+Provincia di residenza: 
+C.A.P.: 85100
+Via: parigi 12
+Telefono: 3669359865
+Email: pioroccobrindisi5@gmail.com
+---------------------------
