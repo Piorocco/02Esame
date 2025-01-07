@@ -11,3 +11,81 @@ Via: parigi 12
 Telefono: 3669359865
 Email: pioroccobrindisi5@gmail.com
 ---------------------------
+Nome: Piorocco
+Cognome: Brindisi
+Sesso: 
+Città di nascita: 
+Provincia di nascita: PZ
+Data di nascita: 
+Città di residenza: PZ
+Provincia di residenza: 
+C.A.P.: 85100
+Via: 
+Telefono: 3669359865
+Email: pioroccobrindisi5@gmail.com
+---------------------------
+Nome: wded
+Cognome: 
+Sesso: 
+Città di nascita: 
+Provincia di nascita: 
+Data di nascita: 
+Città di residenza: 
+Provincia di residenza: 
+C.A.P.: 
+Via: 
+Telefono: 
+Email: 
+---------------------------
+Nome: 
+Cognome: 
+Sesso: 
+Città di nascita: 
+Provincia di nascita: 
+Data di nascita: 
+Città di residenza: 
+Provincia di residenza: 
+C.A.P.: 
+Via: 
+Telefono: 
+Email: 
+---------------------------
+Nome: Piorocco
+Cognome: Brindisi
+Sesso: m
+Città di nascita: potenza
+Provincia di nascita: PZ
+Data di nascita: 2004-02-26
+Città di residenza: PZ
+Provincia di residenza: 
+C.A.P.: 85100
+Via: 
+Telefono: 3669359865
+Email: pioroccobrindisi5@gmail.com
+---------------------------
+Nome: Piorocco
+Cognome: Brindisi
+Sesso: 
+Città di nascita: 
+Provincia di nascita: PZ
+Data di nascita: 
+Città di residenza: PZ
+Provincia di residenza: 
+C.A.P.: 85100
+Via: 
+Telefono: 3669359865
+Email: pioroccobrindisi5@gmail.com
+---------------------------
+Nome: &lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $nome in &lt;b&gt;C:\xampp\htdocs\Esame02\pagine\contatti.php&lt;/b&gt; on line &lt;b&gt;91&lt;/b&gt;&lt;br /&gt;
+Cognome: &lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $cognome in &lt;b&gt;C:\xampp\htdocs\Esame02\pagine\contatti.php&lt;/b&gt; on line &lt;b&gt;93&lt;/b&gt;&lt;br /&gt;
+Sesso: 
+Città di nascita: 
+Provincia di nascita: 
+Data di nascita: 
+Città di residenza: 
+Provincia di residenza: 
+C.A.P.: 
+Via: 
+Telefono: &lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $telefono in &lt;b&gt;C:\xampp\htdocs\Esame02\pagine\contatti.php&lt;/b&gt; on line &lt;b&gt;125&lt;/b&gt;&lt;br /&gt;
+Email: &lt;br /&gt;&lt;b&gt;Warning&lt;/b&gt;:  Undefined variable $email in &lt;b&gt;C:\xampp\htdocs\Esame02\pagine\contatti.php&lt;/b&gt; on line &lt;b&gt;127&lt;/b&gt;&lt;br /&gt;
+---------------------------

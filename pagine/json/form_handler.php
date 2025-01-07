@@ -37,3 +37,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 } else {
     echo "Metodo non valido.";
 }
+
+$json = file_get_contents('portfolio.json');
+$data = json_decode($json, true);
+$id = $_GET['id'];
+
+$lavoro = array_filter($data, function($item) use ($id) {
+    return $item['id'] == $id;
+});
+
+if (!empty($lavoro)) {
+    $lavoro = reset($lavoro); // Ottieni il primo elemento
+}
+
